@@ -1,16 +1,16 @@
-## Hi there 👋
+### ¡Hola! Soy José Salinas alias Nico
 
-<!--
-**jzsalinas/jzsalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me dedico al desarrollo de software, moviéndome principalmente entre entornos **Linux** y lenguajes como **Java** y **Python**. 
 
-Here are some ideas to get you started:
+#### En qué ando ahora:
+* Desarrollando soluciones modulares en el ámbito de los **ERP (Proyecto Prisma)**.
+* Experimentando con procesamiento de datos y música en **Interstellar Notes**.
+* Investigando sobre modelos económicos alternativos (**Joule Standard**).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Fuera de la terminal:
+* Me vas a encontrar con un **tereré** a mano casi a cualquier hora. 
+* Prefiero los libros en papel, la ciencia ficción y la geopolítica.
+* Interesado en la exploración espacial y la tecnología que la hace posible.
+
+---
+"La ingeniería se trata de resolver problemas, el código es solo la herramienta."
