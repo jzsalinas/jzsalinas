@@ -1,16 +1,21 @@
 ### ¡Hola! Soy José Salinas alias Nico
 
-Me dedico al desarrollo de software, moviéndome principalmente entre entornos **Linux** y lenguajes como **Java** y **Python**. 
+Desarrollador de software y administrador de sistemas. Me muevo cómodo en entornos **Linux** construyendo backend robusto con **Java**, desarrollo móvil y proyectos científicos en **Python**.
 
-#### En qué ando ahora:
-* Desarrollando soluciones modulares en el ámbito de los **ERP (Proyecto Prisma)**.
-* Experimentando con procesamiento de datos y música en **Interstellar Notes**.
-* Investigando sobre modelos económicos alternativos (**Joule Standard**).
+#### 🚀 Proyectos destacados:
+* **Prisma ERP**: Sistema ERP SaaS multi-tenant en producción (*Java, Spring Boot, Vaadin, PostgreSQL*).
+* **Nugon SOS**: Aplicación de seguridad personal y alertas de emergencia mediante activación rápida de hardware (*Google Play Console*).
+* **SETI Ellipsoid Detector**: Proyecto Open Source enfocado en análisis algorítmico, rigor científico y procesamiento/mapeo visual 3D para experimentos SETI.
+* **Gargantúa V35**: Modelo de Machine Learning (CRNN) para transcripción automática de audio a partituras (*Python, Librosa, music21*).
+* **Patrón Joule**: Investigación sobre ledgers distribuidos y protocolos de consenso respaldados por modelos energéticos.
 
-#### Fuera de la terminal:
-* Me vas a encontrar con un **tereré** a mano casi a cualquier hora. 
-* Prefiero los libros en papel, la ciencia ficción y la geopolítica.
-* Interesado en la exploración espacial y la tecnología que la hace posible.
+#### 🛠️ Stack principal:
+* **Lenguajes & Frameworks:** Java (Spring Boot, Vaadin, JPA/Hibernate), Python, Android/Mobile.
+* **Infraestructura & Datos:** Linux Admin, PostgreSQL, Nginx, systemd, RouterOS / Mikrotik.
+
+#### 🧉 Fuera de la terminal:
+* El **tereré** es un requisito del sistema, no una opción.
+* Fan de la ciencia ficción, la exploración espacial, la geopolítica y los libros en papel.
 
 ---
-"La ingeniería se trata de resolver problemas, el código es solo la herramienta."
+> *"La ingeniería se trata de resolver problemas, el código es solo la herramienta."*
